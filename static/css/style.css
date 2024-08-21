@@ -5122,6 +5122,13 @@
 
 ***/
 
+.page-title2{
+	position:relative;
+	text-align:center;
+	margin-top: 110px;
+	padding: 0;
+}
+
 .page-title{
 	position:relative;
 	text-align:center;
