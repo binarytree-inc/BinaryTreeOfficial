@@ -945,6 +945,10 @@
 		display: none;
 	}
 
+	.main-header .header-lower .logo-box .logo img{
+		max-width: 80%;
+	}
+
 	h1{
     	line-height: 40px;
     	font-size: 30px;

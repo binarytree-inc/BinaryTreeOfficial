@@ -574,6 +574,49 @@
 	transform: rotateY(180deg);
 }
 
+/* 容器样式，包含两张图片 */
+.flip-container {
+	width: 70px;
+	height: 70px;
+	perspective: 1000px; /* 设置3D视角 */
+}
+
+.flipper {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	transition: transform 0.6s; /* 动画时长 */
+	transform-style: preserve-3d; /* 保持3D效果 */
+	-moz-transition:all 500ms ease;
+	-webkit-transition:all 500ms ease;
+	-ms-transition:all 500ms ease;
+	-o-transition:all 500ms ease;
+}
+
+/* 鼠标悬停时触发翻转 */
+.flip-container:hover .flipper {
+	transform: rotateY(180deg); /* Y轴180度翻转 */
+}
+
+/* 前面和背面图片的通用样式 */
+.front, .back {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	backface-visibility: hidden; /* 隐藏背面 */
+}
+
+/* 前面图片 */
+.front {
+	background-size: cover;
+}
+
+/* 背面图片 */
+.back {
+	background-size: cover;
+	transform: rotateY(180deg); /* 背面默认翻转180度 */
+}
+
 .service-block_one-heading{
 	position: relative;
 	margin-top: 22px;

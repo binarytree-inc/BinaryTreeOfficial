@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="70" viewBox="0 0 70 70">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.138" y1="0.169" x2="0.845" y2="0.859" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#261f2c"/>
+      <stop offset="1" stop-color="#392e3f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#835db1"/>
+      <stop offset="1" stop-color="#1e1e1e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4b2d6f"/>
+      <stop offset="1" stop-color="#1e1e1e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c0a1e5"/>
+      <stop offset="1" stop-color="#1e1e1e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.378" x2="0.383" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#953dff"/>
+      <stop offset="1" stop-color="#e7abff"/>
+    </linearGradient>
+  </defs>
+  <g id="SEO" transform="translate(-330 -1574)">
+    <circle id="椭圆_11" data-name="椭圆 11" cx="35" cy="35" r="35" transform="translate(330 1574)" fill="url(#linear-gradient)"/>
+    <g id="组_12" data-name="组 12" transform="translate(-0.223)">
+      <path id="路径_26" data-name="路径 26" d="M7.793,0H18.882A13.8,13.8,0,0,1,14.8,9.305H4.734S8.939,4.971,7.793,0" transform="translate(347.223 1595.163)" fill="url(#linear-gradient-2)"/>
+      <path id="路径_27" data-name="路径 27" d="M2.444,27.675.036,12.213A2.988,2.988,0,0,1,2.989,8.765h21.66a2.4,2.4,0,0,1,2.368,2.027l2.629,16.883" transform="translate(347.223 1595.163)" fill="url(#linear-gradient-3)"/>
+      <path id="路径_28" data-name="路径 28" d="M13.471,1.575H25.443a14.9,14.9,0,0,1-4.4,10.045H10.168s4.541-4.678,3.3-10.045" transform="translate(347.223 1595.163)" fill="url(#linear-gradient-4)"/>
+      <path id="路径_29" data-name="路径 29" d="M29.646,27.675H2.445L4.061,13.257a2.91,2.91,0,0,1,2.892-2.586H29.722a1.636,1.636,0,0,1,1.626,1.819Z" transform="translate(347.223 1595.163)" fill="#141414"/>
+      <path id="路径_30" data-name="路径 30" d="M20.48,3.709H35.553a18.76,18.76,0,0,1-5.544,12.648H16.322s5.717-5.891,4.158-12.648" transform="translate(347.223 1595.163)" fill="#fff"/>
+      <path id="路径_31" data-name="路径 31" d="M22.924,6.784a8.634,8.634,0,0,1-.313,1.956H32.6a5.726,5.726,0,0,0,.469-2.034Z" transform="translate(347.223 1595.163)" fill="#141414"/>
+      <path id="路径_32" data-name="路径 32" d="M22.142,10.3a6.755,6.755,0,0,1-.777,1.863h5.8a4.417,4.417,0,0,0,.854-1.785Z" transform="translate(347.223 1595.163)" fill="#141414"/>
+      <path id="路径_33" data-name="路径 33" d="M29.646,27.675H2.445L8.281,16.281a3.3,3.3,0,0,1,2.941-1.8H34.145a1.381,1.381,0,0,1,1.229,2.01Z" transform="translate(347.223 1595.163)" fill="url(#linear-gradient-5)"/>
+      <path id="路径_34" data-name="路径 34" d="M8.658,24.534l.565-1.345a6.818,6.818,0,0,0,2.062.353c1.025.034,1.448-.167,1.711-.8.225-.536.083-.735-.987-1.037-1.5-.4-1.8-.838-1.277-2.092.624-1.487,1.9-2.02,3.689-1.961a5.764,5.764,0,0,1,1.875.317l-.53,1.264a7.208,7.208,0,0,0-1.809-.315c-.879-.029-1.31.111-1.561.708-.19.455-.08.623.953.9,1.678.464,1.858,1,1.311,2.308-.578,1.376-1.734,2.087-3.859,2.018a8.616,8.616,0,0,1-2.143-.326" transform="translate(347.223 1595.163)" fill="#fff"/>
+      <path id="路径_35" data-name="路径 35" d="M20.713,23.727l-.56,1.335L15.277,24.9l2.946-7.02,4.719.154-.56,1.335-3.027-.1-.607,1.446,2.805.091L21.014,22.1,18.208,22l-.679,1.618Z" transform="translate(347.223 1595.163)" fill="#fff"/>
+      <path id="路径_36" data-name="路径 36" d="M22.8,21.59c1.2-2.862,2.784-3.57,5.022-3.5,2.271.074,3.192.863,1.991,3.726s-2.751,3.571-5.022,3.5c-2.237-.073-3.192-.863-1.991-3.726m5.243.171c.717-1.71.677-2.367-.748-2.413s-2,.591-2.714,2.3c-.726,1.73-.665,2.337.749,2.383s1.987-.54,2.713-2.27" transform="translate(347.223 1595.163)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

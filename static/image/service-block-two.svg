@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="70" viewBox="0 0 70 70">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.138" y1="0.169" x2="0.845" y2="0.859" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#261f2c"/>
+      <stop offset="1" stop-color="#392e3f"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#141414"/>
+      <stop offset="1" stop-color="#7140ac"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0.378" x2="0.383" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#953dff"/>
+      <stop offset="1" stop-color="#e7abff"/>
+    </linearGradient>
+  </defs>
+  <g id="dataCollection" transform="translate(-778 -1277)">
+    <circle id="椭圆_7" data-name="椭圆 7" cx="35" cy="35" r="35" transform="translate(778 1277)" fill="url(#linear-gradient)"/>
+    <g id="组_8" data-name="组 8" transform="translate(448 91)">
+      <path id="路径_16" data-name="路径 16" d="M28.607,30.276c0,1.871-5.442,3.388-12.156,3.388S4.3,32.147,4.3,30.276s5.443-3.388,12.156-3.388,12.156,1.517,12.156,3.388" transform="translate(348.549 1204.168)" fill="url(#radial-gradient)"/>
+      <path id="路径_17" data-name="路径 17" d="M21.461,29.556l-5-9.239-5.014,9.257a.268.268,0,0,0-.033.219c.243.614,2.41,1.1,5.047,1.1,2.508,0,4.591-.435,5-1.006a.311.311,0,0,0,.006-.326" transform="translate(348.549 1204.168)" fill="url(#linear-gradient-2)"/>
+      <path id="路径_18" data-name="路径 18" d="M29.923,25.161H2.979A2.979,2.979,0,0,1,0,22.182V2.979A2.979,2.979,0,0,1,2.979,0H29.923A2.979,2.979,0,0,1,32.9,2.979v19.2a2.979,2.979,0,0,1-2.979,2.979" transform="translate(348.549 1204.168)" fill="url(#linear-gradient-2)"/>
+      <path id="联合_2" data-name="联合 2" d="M0,7.541A6.236,6.236,0,0,1,6.237,1.3l.04,0V7.512h6.2v.029A6.237,6.237,0,1,1,0,7.541Zm16.46,5.332V10.127h9.7v2.746Zm0-4.352V5.775h5.55V8.521ZM7.583,6.206V0a6.236,6.236,0,0,1,6.2,6.206ZM16.46,4.169V1.423H27.05V4.169Z" transform="translate(351.545 1210.285)" fill="#141414" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
