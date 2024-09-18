@@ -250,8 +250,7 @@
 .slider-one_heading span{
 	position: relative;
 	font-weight: 600;
-	font-style: italic;
-	font-family: 'Lora', serif;
+	font-style: normal;
 }
 
 .slider-one_heading span::before{
@@ -566,7 +565,7 @@
 	opacity: 0.50;
 	border-radius: 50px;
     background: var(--main-color);
-    background: linear-gradient(to right, var(--main-color) 0%, var(--color-five) 100%)
+    background: linear-gradient(to right, var(--main-color) 0%, var(--color-five) 100%);
 }
 
 .service-block_one-inner:hover .service-block_one-icon{
@@ -2386,7 +2385,7 @@
 
 .cta-one_title span{
 	position: relative;
-	font-style: italic;
+	font-style: normal;
 	display: inline-block;
 	font-family: 'Lora', serif;
 }

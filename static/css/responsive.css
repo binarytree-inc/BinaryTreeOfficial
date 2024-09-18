@@ -445,7 +445,7 @@
 	}
 
 	.slider-one .swiper-slide{
-		padding: 100px 0px 150px;
+		padding: 20px 0px 50px;
 	}
 
 	.slider-one_image-column{
@@ -929,7 +929,9 @@
 }
 
 @media only screen and (max-width: 479px) {
-	
+
+	.page-wrapper .cursor,
+	.page-wrapper .cursor-follower,
 	.sec-title_heading br,
 	.slider-one_graph,
 	.cta-icon_one,
@@ -939,7 +941,6 @@
 	.social-one .inner-container .social-one_bg-two,
 	.answer-one_scroll-content .text .icon,
 	.slider-one_percentage,
-	.slider-one_title i,
 	.language-dropdown{
 		display: none;
 	}

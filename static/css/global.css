@@ -898,10 +898,8 @@ img{
 
 .sec-title_heading span{
 	position: relative;
-	font-style: italic;
+	font-style: normal;
 	display: inline-block;
-	font-family: 'Lora', serif;
-	text-transform: lowercase;
 }
 
 .sec-title_heading span::before{
@@ -1044,10 +1042,8 @@ img{
 
 .sec-title.style-four .sec-title_heading span{
 	color: var(--main-color);
-	font-style: italic;
+	font-style: normal;
     display: inline-block;
-    font-family: 'Lora', serif;
-    text-transform: lowercase;
 }
 
 .sec-title.style-four .sec-title_heading span::before{
