@@ -935,7 +935,6 @@
 	.sec-title_heading br,
 	.slider-one_graph,
 	.cta-icon_one,
-	.cta-one_cards,
 	.sec-title_text br,
 	.social-one .inner-container .social-one_bg,
 	.social-one .inner-container .social-one_bg-two,
@@ -947,6 +946,16 @@
 
 	.main-header .header-lower .logo-box .logo img{
 		max-width: 80%;
+	}
+
+	.cta-one_cards .inline img{
+		width: 60px;
+		margin: 15px 15px 0;
+	}
+
+
+	.sec-title_text .step{
+		margin: 16px 0;
 	}
 
 	h1{

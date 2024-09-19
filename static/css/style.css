@@ -2430,7 +2430,6 @@
 	position: relative;
 	font-style: normal;
 	display: inline-block;
-	font-family: 'Lora', serif;
 }
 
 .cta-one_title span::before{
@@ -2457,12 +2456,20 @@
 }
 
 .cta-one_cards{
-	position: absolute;
 	left: -5px;
 	top: 170px;
 	z-index: 2;
-	-webkit-animation: icon-bounce 0.8s ease-out infinite;
-    animation: icon-bounce 0.8s ease-out infinite;
+	-webkit-animation: icon-bounce 3s ease-out infinite;
+    animation: icon-bounce 3s ease-out infinite;
+}
+
+.cta-one_cards .inline {
+	display: inline-flex;
+}
+
+.cta-one_cards .inline img{
+	width: 80px;
+	margin: 50px 20px 20px 20px;
 }
 
 .cta-one_card{

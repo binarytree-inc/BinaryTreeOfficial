@@ -923,6 +923,12 @@ img{
     color:var(--color-three);
 }
 
+.sec-title_text .step b{
+	padding-right: 8px;
+	font-size:18px;
+	color: var(--white-color);
+}
+
 .sec-title.light .sec-title_title{
     color: var(--white-color);
 }
