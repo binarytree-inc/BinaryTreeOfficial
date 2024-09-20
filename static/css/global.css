@@ -923,10 +923,20 @@ img{
     color:var(--color-three);
 }
 
+.sec-title_text .step{
+	margin-bottom: 40px;
+}
+
 .sec-title_text .step b{
 	padding-right: 8px;
 	font-size:18px;
 	color: var(--white-color);
+}
+
+.sec-title_text .step img{
+	max-width: 375px;
+	padding: 20px;
+	border-radius: 30px;
 }
 
 .sec-title.light .sec-title_title{
