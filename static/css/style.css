@@ -362,7 +362,7 @@
 
 .slider-one_image-outer{
 	position: relative;
-	padding-bottom: 75px;
+	padding-bottom: 100px;
 }
 
 .slider-one_image{
@@ -421,8 +421,8 @@
 
 .slider-one_percentage{
 	position: absolute;
-	right: -35px;
-	top: 40px;
+	right: -65px;
+	top: 60px;
 	z-index: 1;
 	width: 145px;
 	overflow: hidden;
