@@ -1771,7 +1771,7 @@
 
 .price-block_one-price{
 	position: relative;
-	font-size: 68px;
+	font-size: 40px;
 	line-height: 1em;
 	font-weight: 500;
 	color: var(--white-color);
@@ -1785,12 +1785,12 @@
 .price-block_one-price sup{
 	position: relative;
 	font-size: 28px;
-	top: -25px;
+	top: -10px;
 }
 
 .price-block_one-price sub{
 	position: relative;
-	font-size: 28px;
+	font-size: 20px;
 	font-weight: 400;
     font-style: italic;
 }
@@ -1884,7 +1884,7 @@
 
 .faq-one{
 	position: relative;
-	padding: 100px 0px 70px;
+	padding: 60px 10px;
 }
 
 .faq-one.style-two{
@@ -5751,7 +5751,7 @@
 
 .price-three{
 	position: relative;
-	padding: 100px 0px 80px;
+	padding: 100px 0 30px;
 	background-color: var(--color-four);
 	border-bottom: 1px solid rgba(var(--white-color-rgb), 0.05);
 }
